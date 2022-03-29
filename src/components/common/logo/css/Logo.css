@@ -1,0 +1,14 @@
+.logo-button{
+    background-color: var(--primary-color);
+    color: white;
+    border: 0px;
+    border-radius: 5px;
+    font-size: 36px;
+    font-weight: bold;
+}
+
+.logo-text{
+    color: var(--primary-color);
+    font-size: 36px;
+    font-weight: bold;
+}

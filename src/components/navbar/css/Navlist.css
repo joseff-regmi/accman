@@ -1,0 +1,22 @@
+
+
+.navlist{
+    list-style: none;
+    display: inline-flex;
+    font-weight: 400;
+}
+
+.navlist li{
+    margin-left: 40px;
+}
+
+.link{
+    color: black;
+    text-decoration: none;
+}
+
+.link:hover{
+    color: var(--primary-color);
+    cursor: pointer;
+}
+

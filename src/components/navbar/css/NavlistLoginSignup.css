@@ -1,0 +1,25 @@
+
+.navlist-login-signup{
+    list-style:none;
+    display: inline-flex;
+    font-weight: 400;
+}
+
+.navlist-login-signup li{
+    margin-left: 40px;
+    font-weight: 500;
+    cursor: pointer;
+    color: var(--primary-color);
+}
+
+
+.link-login-signup{
+    color: #5e89ff;
+    text-decoration: none;
+}
+
+
+.link-login-signup:hover{
+    cursor: pointer;
+    color: var(--primary-color);
+}

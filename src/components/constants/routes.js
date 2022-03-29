@@ -1,0 +1,13 @@
+export const INDEX_ROUTE = '/'
+export const HOME_ROUTE = '/home' 
+export const ABOUT_US_ROUTE = '/about-us' 
+export const FEATURES_ROUTE = '/features' 
+export const AUTH_ROUTE = '/auth' 
+export const SIGN_UP_ROUTE = `${AUTH_ROUTE}/signup`
+export const LOGIN_ROUTE = `${AUTH_ROUTE}/login` 
+export const OTP_ROUTE = `${AUTH_ROUTE}/signup-otp` 
+export const SET_PASSWORD_ROUTE = `${AUTH_ROUTE}/set-password`
+export const FORGATE_PASSWORD = `${AUTH_ROUTE}/forget-password`
+export const LOGGED_IN_PAGE = '/logged-in-page'
+export const FORGATE_PASSWORD_OTP = `${FORGATE_PASSWORD}/forgate-password-otp`
+export const FORGET_PASSWORD_RESET = `${FORGATE_PASSWORD}/forget-password-reset`
